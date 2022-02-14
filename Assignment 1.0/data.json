@@ -1,0 +1,45 @@
+[
+    {
+      "first_name": "Varun",
+      "last_name": "Singh",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+      "emp_id": "120293",
+      "email": "varun.singh@zopsmart.com"
+    },
+    {
+      "first_name": "Viplav",
+      "last_name": "Anand",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+      "emp_id": "239483",
+      "email": "viplav.anand@zopsmart.com"
+    },
+    {
+      "first_name": "Sahil",
+      "last_name": "Thakur",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+      "emp_id": "968543",
+      "email": "sahil.thakur@zopsmart.com"
+    },
+    {
+      "first_name": "Abhishek",
+      "last_name": "Gupta",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+      "emp_id": "483539",
+      "email": "abhishek.gupta@zopsmart.com"
+    },
+    {
+        "first_name": "John",
+        "last_name": "doe",
+        "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+        "emp_id": "394839",
+        "email": "john.doe@zopsmart.com"
+    },
+    {
+        "first_name": "Narendra",
+        "last_name": "Modi",
+        "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+        "emp_id": "293284",
+        "email": "narendra.modi@zopsmart.com"
+    }
+  ]
+
