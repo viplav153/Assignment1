@@ -1,0 +1,31 @@
+[
+ {
+    "ios_team": [
+
+    {
+        "name": "Viplav Anand",
+        "designation": "Team Lead",
+        "email": "viplav@gmail.com",
+        "id" : 1
+   },
+    {
+        "name": "Varun Singh",
+        "designation": "Project Lead",
+        "email": "varun@gmail.com",
+        "id" : 2
+   },
+    {
+        "name": "Sahil",
+        "designation": "Trainee",
+        "email": "Sahil@gmail.com",
+        "id" : 3
+   },
+    {
+        "name": "Abhishek",
+        "designation": "CEO",
+        "email": "Abhishek@gmail.com",
+        "id" : 4
+   }
+    ]
+ }
+]
